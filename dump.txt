@@ -1,0 +1,211 @@
+Arts and Entertainment
+- MusicComposition
+- MusicVideoObject
+- Movie
+- VisualArtwork
+- Play
+- DanceEvent
+- PublicationEvent
+
+Creative Works
+- CreativeWork
+- Article
+- Blog
+- Book
+- MusicRecording
+- Painting
+- Photograph
+- Recipe
+- VideoGame
+
+Business and Finance
+- MonetaryAmount
+- InvestmentFund
+- BankAccount
+- LoanOrCredit
+- FinancialProduct
+- Account
+- TradeAction
+- Invoice
+- Order
+- ParcelDelivery
+
+Education
+- Course
+- EducationalOccupationalProgram
+- LearningResource
+- AcademicOccupationalCredential
+
+Events
+- Event
+- SportsEvent
+- MusicEvent
+- TheaterEvent
+- Festival
+- BusinessEvent
+- EducationEvent
+
+Food and Dining
+- FoodEstablishment
+- Menu
+- MenuItem
+- FoodEvent
+- Recipe
+
+Government and Civic
+- GovernmentService
+- PoliticalEvent
+- GovernmentOrganization
+
+Health and Medical
+- MedicalEntity
+- Disease
+- MedicalCondition
+- Drug
+- Physician
+- Hospital
+
+Legal
+- GovernmentOrganization
+- NonprofitOrganization
+- LegalService
+
+Media and News
+- NewsArticle
+- Journalist
+- NewsMediaOrganization
+- TVSeries
+- RadioChannel
+
+Organizations
+- Organization
+- Corporation
+- NGO
+- EducationalOrganization
+- GovernmentOrganization
+- LocalBusiness
+
+LocalBusiness
+- Restaurant
+- BarOrPub
+- CafeOrCoffeeShop
+- ProfessionalService
+- AutoRepair
+- Store
+- MedicalBusiness
+
+People
+- Person
+- Author
+- ContactPoint
+- Role
+- EmployeeRole
+
+Places
+- Place
+- Restaurant
+- BarOrPub
+- CafeOrCoffeeShop
+- MedicalBusiness
+- Library
+- AdministrativeArea
+- Landform
+- TouristAttraction
+- CivicStructure
+- Airport
+- BusStation
+- Park
+- School
+
+Products and Services
+- Product
+- Offer
+- AggregateOffer
+- Brand
+- Service
+- Demand
+
+Real Estate
+- RealEstateAgent
+- ApartmentComplex
+- House
+- CommercialProperty
+- RealEstateListing
+
+Retail and Commerce
+- ShoppingCenter
+- Product
+- Offer
+- Invoice
+- Order
+
+Order
+- OrderItem
+- ParcelDelivery
+- Service
+- MerchantReturnPolicy
+- WarrantyPromise
+
+Reviews and Ratings
+- AggregateRating
+- Rating
+- Review
+
+Science and Nature
+- ResearchOrganization
+- ScientificArticle
+- ScientificEvent
+- Animal
+- Species
+
+Social and Cultural
+- SocialMediaPosting
+- Comment
+- UserReview
+- CivicStructure
+- Library
+- Park
+- PlaceOfWorship
+- Club
+- DiscussionForumPosting
+
+Sports
+- SportsEvent
+- SportsTeam
+- SportsOrganization
+- Athlete
+- SportsSeason
+
+Technology and Computing
+- SoftwareApplication
+- WebApplication
+- MobileApplication
+- OperatingSystem
+- TechArticle
+
+Tourism
+- TouristAttraction
+- TouristDestination
+- Trip
+- TouristTrip
+
+Transportation
+- Vehicle
+- Flight
+- TrainTrip
+- BusTrip
+- FlightReservation
+
+WebPage
+- AboutPage
+- FAQPage
+- ContactPage
+- CheckoutPage
+
+WebSite
+- WebSite
+
+Jobs and Employment
+- JobPosting
+- Occupation
+- WorkExperience
