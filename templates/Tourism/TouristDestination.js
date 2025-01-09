@@ -1,7 +1,6 @@
 export default {
   "title": "Tourist Destination",
   "description": "Schema representing a tourist destination, including details such as location, attractions, and additional travel-related information.",
-  "category": ["tourism"],
   "keywords": ["tourism", "tourist destination", "attractions", "travel", "vacation", "holiday", "destination"],
   "example": {
     "name": "Eiffel Tower",

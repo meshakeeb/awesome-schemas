@@ -1,7 +1,6 @@
 export default {
   "title": "Legal Service",
   "description": "Schema representing a legal service offered by a law firm or legal entity. It includes information about the type of legal services provided, the legal professionals involved, and contact details for the service.",
-  "category": ["legal"],
   "keywords": ["legal", "legal service", "lawyer", "attorney", "legal advice", "legal consultation", "law firm", "legal services", "court representation"],
   "example": {
     "name": "Expert Legal Solutions",

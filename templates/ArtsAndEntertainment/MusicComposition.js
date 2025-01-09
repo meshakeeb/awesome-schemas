@@ -1,7 +1,6 @@
 export default {
   "title": "Music Composition",
   "description": "Represents a musical composition, including details such as the composer, genre, and other attributes.",
-  "category": ["arts"],
   "keywords": ["music", "composition", "song", "melody", "score", "creative work", "arts", "entertainment"],
   "example": {
     "title": "Symphony No. 5",

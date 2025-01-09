@@ -1,8 +1,7 @@
 export default {
   "title": "Political Event",
   "description": "Schema representing a political event, such as elections, rallies, debates, or political speeches. It includes details like the event name, date, location, participants, and topics covered.",
-  "category": ["government-and-civic", "events"],
-  "keywords": ["government", "civic", "political event", "political rally", "election event", "political debate", "political speech", "campaign event"],
+  "keywords": ["government-and-civic", "events", "government", "civic", "political event", "political rally", "election event", "political debate", "political speech", "campaign event"],
   "example": {
     "eventName": "Presidential Election Debate",
     "organizer": "National Election Commission",

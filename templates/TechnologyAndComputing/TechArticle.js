@@ -1,8 +1,7 @@
 export default {
   "title": "Tech Article",
   "description": "Schema representing a technical article, which provides in-depth information on a specific technology, product, or methodology, often intended to educate or inform professionals in the tech industry.",
-  "category": ["technology-and-computing"],
-  "keywords": ["technology", "computing", "tech article", "product review", "programming", "software", "hardware", "industry trends"],
+  "keywords": ["technology-and-computing", "technology", "computing", "tech article", "product review", "programming", "software", "hardware", "industry trends"],
   "example": {
     "headline": "The Future of AI in Software Development",
     "url": "https://www.example.com/future-of-ai-in-software-development",

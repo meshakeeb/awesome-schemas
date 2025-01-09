@@ -1,8 +1,7 @@
 export default {
   "title": "Rating",
   "description": "Schema representing an individual rating, which includes the rating value, the reviewer's experience, and additional feedback provided by the reviewer.",
-  "category": ["reviews-and-ratings"],
-  "keywords": ["reviews", "ratings", "feedback", "evaluation", "customer review", "star rating", "user feedback"],
+  "keywords": ["reviews-and-ratings", "reviews", "ratings", "feedback", "evaluation", "customer review", "star rating", "user feedback"],
   "example": {
     "@type": "Rating",
     "ratingValue": 4,

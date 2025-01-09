@@ -1,7 +1,6 @@
 export default {
   "title": "Tourist Attraction",
   "description": "Schema representing a location or site that is of interest to tourists. These attractions may include landmarks, cultural sites, natural wonders, and entertainment venues.",
-  "category": ["places"],
   "keywords": ["places", "tourist attraction", "landmark", "tourism", "historic site", "cultural site", "museum", "monument", "natural wonder", "entertainment venue", "destination"],
   "example": {
     "@type": "TouristAttraction",

@@ -1,7 +1,6 @@
 export default {
   "title": "Web Site",
   "description": "Schema representing a website, including details such as the name, description, and relevant social media profiles.",
-  "category": ["website"],
   "keywords": ["website", "online", "web", "internet", "digital presence", "company website", "business site"],
   "example": {
     "name": "Example.com",

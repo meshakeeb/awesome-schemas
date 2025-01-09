@@ -1,8 +1,7 @@
 export default {
   "title": "Blog Posting",
   "description": "Schema representing a blog post, including details such as the author, publication date, content, and associated tags.",
-  "category": ["creative-works"],
-  "keywords": ["creative work", "blog", "posting", "content", "writing", "opinion", "media"],
+  "keywords": ["creative-works", "blog", "posting", "content", "writing", "opinion", "media"],
   "example": {
     "title": "10 Tips for Effective Time Management",
     "author": "John Smith",

@@ -1,7 +1,6 @@
 export default {
   "title": "Contact Page",
   "description": "Schema representing a contact page of a website, typically used for providing contact information, forms, and communication channels.",
-  "category": ["webpage"],
   "keywords": ["webpage", "contact", "contact us", "support", "inquiry", "email", "phone number"],
   "example": {
     "name": "Contact Us - ExampleCompany",

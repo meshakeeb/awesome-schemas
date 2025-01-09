@@ -1,8 +1,7 @@
 export default {
   "title": "Local Business",
   "description": "Schema representing a local business, typically a business operating within a specific geographic area, such as a retail store, service provider, or restaurant. This includes details such as the name, address, contact information, and types of services offered.",
-  "category": ["organizations"],
-  "keywords": ["organization", "local business", "small business", "service provider", "retail store", "restaurant", "local service"],
+  "keywords": ["organizations", "local business", "small business", "service provider", "retail store", "restaurant", "local service"],
   "example": {
     "@type": "LocalBusiness",
     "name": "Joe's Coffee Shop",

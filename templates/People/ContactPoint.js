@@ -1,7 +1,6 @@
 export default {
   "title": "Contact Point",
   "description": "Schema representing a contact point for a person or organization, typically used for communication purposes. This can include phone numbers, email addresses, and other relevant contact methods.",
-  "category": ["people"],
   "keywords": ["people", "contact", "phone", "email", "communication", "customer service", "support"],
   "example": {
     "@type": "ContactPoint",

@@ -1,7 +1,6 @@
 export default {
   "title": "Music Video Object",
   "description": "Schema representing a music video, including metadata about the video, its creators, and key details.",
-  "category": ["arts"],
   "keywords": ["arts", "music", "video", "music video", "entertainment", "performance"],
   "example": {
     "title": "Shape of You",

@@ -1,8 +1,7 @@
 export default {
   "title": "Apartment Complex",
   "description": "Schema representing an apartment complex, which is a residential building or group of buildings containing multiple individual apartments or units. It includes information such as the complex's name, address, amenities, and contact information.",
-  "category": ["real-estate"],
-  "keywords": ["real estate", "apartment complex", "residential complex", "apartments", "housing", "residential buildings"],
+  "keywords": ["real-estate", "real estate", "apartment complex", "residential complex", "apartments", "housing", "residential buildings"],
   "example": {
     "@type": "ApartmentComplex",
     "name": "Greenwood Apartments",

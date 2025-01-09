@@ -1,7 +1,6 @@
 export default {
   "title": "School",
   "description": "Schema representing an educational institution that provides learning environments and resources for the education of students. It typically offers primary, secondary, or higher education and may have various facilities and academic programs.",
-  "category": ["places"],
   "keywords": ["places", "school", "education", "academic institution", "primary school", "secondary school", "high school", "learning", "curriculum", "faculty", "student body"],
   "example": {
     "@type": "School",

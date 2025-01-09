@@ -1,7 +1,6 @@
 export default {
   "title": "Festival",
   "description": "Schema representing a festival event, including details such as the festival name, location, date, performers, and activities.",
-  "category": ["events"],
   "keywords": ["events", "festival", "celebration", "concert", "cultural event", "performances", "food", "art"],
   "example": {
     "eventName": "Coachella Valley Music and Arts Festival 2024",

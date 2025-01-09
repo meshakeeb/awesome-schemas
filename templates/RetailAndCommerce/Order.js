@@ -1,8 +1,7 @@
 export default {
   "title": "Order",
   "description": "Schema representing an order placed by a customer, which includes details about the items ordered, payment status, shipping details, and the total cost of the order.",
-  "category": ["retail-and-commerce"],
-  "keywords": ["retail", "commerce", "order", "purchase", "transaction", "sales order", "shipping", "payment", "customer order"],
+  "keywords": ["retail-and-commerce", "retail", "commerce", "order", "purchase", "transaction", "sales order", "shipping", "payment", "customer order"],
   "example": {
     "@type": "Order",
     "orderNumber": "ORD123456",

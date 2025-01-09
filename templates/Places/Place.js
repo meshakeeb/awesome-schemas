@@ -1,7 +1,6 @@
 export default {
   "title": "Place",
   "description": "Schema representing a specific location, which can include physical places such as a building, street, or city, or more abstract places such as a venue or a geographical region.",
-  "category": ["places"],
   "keywords": ["places", "location", "region", "address", "site", "venue", "geographical area", "physical place", "city", "landmark"],
   "example": {
     "@type": "Place",

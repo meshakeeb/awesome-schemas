@@ -1,7 +1,6 @@
 export default {
   "title": "Sports Event",
   "description": "Schema representing a sports event, including details such as the event name, location, date, teams or participants, and any associated outcomes or results.",
-  "category": ["events"],
   "keywords": ["events", "sports event", "competition", "match", "tournament", "team", "athletes"],
   "example": {
     "eventName": "Summer Olympic Games 2024",

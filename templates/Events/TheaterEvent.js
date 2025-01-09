@@ -1,7 +1,6 @@
 export default {
   "title": "Theater Event",
   "description": "Schema representing a theater event, including details such as the event name, location, date, performers, and any associated plays or performances.",
-  "category": ["events"],
   "keywords": ["events", "theater event", "play", "performance", "stage", "drama", "actors"],
   "example": {
     "eventName": "Shakespeare in the Park - Hamlet",

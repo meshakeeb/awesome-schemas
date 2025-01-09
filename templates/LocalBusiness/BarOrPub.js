@@ -1,8 +1,7 @@
 export default {
   "title": "Bar Or Pub",
   "description": "Schema representing a bar or pub, detailing the type of establishment, the services it offers, its location, and any additional information such as opening hours, menu, and special events.",
-  "category": ["local-business"],
-  "keywords": ["local business", "bar", "pub", "cocktails", "drinks", "beer", "happy hour", "live music", "nightlife"],
+  "keywords": ["local-business", "local business", "bar", "pub", "cocktails", "drinks", "beer", "happy hour", "live music", "nightlife"],
   "example": {
     "name": "The Oak Tavern",
     "url": "https://www.theoaktavern.com",

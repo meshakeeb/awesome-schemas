@@ -1,8 +1,7 @@
 export default {
   "title": "Service",
   "description": "Schema representing a service, which can be any type of intangible offering provided to a consumer or business, such as consulting, maintenance, or digital services.",
-  "category": ["products-and-services"],
-  "keywords": ["products", "services", "consulting", "maintenance", "repair", "digital service", "software service"],
+  "keywords": ["products-and-services", "products", "services", "consulting", "maintenance", "repair", "digital service", "software service"],
   "example": {
     "@type": "Service",
     "name": "Web Design Service",

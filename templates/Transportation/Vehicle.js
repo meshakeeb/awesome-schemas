@@ -1,7 +1,6 @@
 export default {
   "title": "Vehicle",
   "description": "Schema representing a vehicle, including details such as make, model, year, fuel type, and other relevant vehicle-related information.",
-  "category": ["transportation"],
   "keywords": ["transportation", "vehicle", "car", "automobile", "make", "model", "fuel type", "year", "vehicle details"],
   "example": {
     "name": "Toyota Camry 2023",

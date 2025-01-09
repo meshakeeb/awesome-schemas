@@ -1,8 +1,7 @@
 export default {
   "title": "Professional Service",
   "description": "Schema representing a professional service business, detailing the types of services offered, business information such as location, contact details, and staff expertise.",
-  "category": ["local-business"],
-  "keywords": ["local business", "consulting", "lawyer", "accounting", "financial advisor", "architect", "engineering", "professional services", "expert advice", "service business"],
+  "keywords": ["local-business", "local business", "consulting", "lawyer", "accounting", "financial advisor", "architect", "engineering", "professional services", "expert advice", "service business"],
   "example": {
     "name": "Smith & Associates Law Firm",
     "url": "https://www.smithandassociates.com",

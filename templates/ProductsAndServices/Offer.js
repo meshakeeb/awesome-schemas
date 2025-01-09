@@ -1,8 +1,7 @@
 export default {
   "title": "Offer",
   "description": "Schema representing an offer for a product, service, or event, typically including details such as price, availability, and conditions of the offer. It can be used for promotions, discounts, or deals available to consumers.",
-  "category": ["products-and-services"],
-  "keywords": ["products", "services", "offer", "deal", "discount", "promotion", "sale", "special offer", "price offer"],
+  "keywords": ["products-and-services", "products", "services", "offer", "deal", "discount", "promotion", "sale", "special offer", "price offer"],
   "example": {
     "@type": "Offer",
     "url": "https://www.example.com/product/laptop",

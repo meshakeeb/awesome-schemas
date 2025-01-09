@@ -1,8 +1,7 @@
 export default {
   "title": "Corporation",
   "description": "Schema representing a corporation, including details about its legal structure, type of business, and contact information. Corporations are large companies or entities organized under the law, typically with shareholders and a board of directors.",
-  "category": ["organizations"],
-  "keywords": ["organization", "corporation", "business", "company", "enterprise", "organization", "legal entity"],
+  "keywords": ["organizations", "corporation", "business", "company", "enterprise", "organization", "legal entity"],
   "example": {
     "@type": "Corporation",
     "name": "Tech Innovations Inc.",

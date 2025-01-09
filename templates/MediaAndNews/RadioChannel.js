@@ -1,8 +1,7 @@
 export default {
   "title": "Radio Channel",
   "description": "Schema representing a radio channel, including details such as name, description, frequency, and streaming URL.",
-  "category": ["media-and-news"],
-  "keywords": ["media", "news", "radio channel", "radio station", "broadcast", "streaming", "media", "live radio", "radio frequency"],
+  "keywords": ["media-and-news", "media", "news", "radio channel", "radio station", "broadcast", "streaming", "media", "live radio", "radio frequency"],
   "example": {
     "name": "The Global Radio Station",
     "url": "https://www.example.com/radio-channel",

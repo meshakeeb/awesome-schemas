@@ -1,7 +1,6 @@
 export default {
   "title": "Park",
   "description": "Schema representing a public park or garden, an outdoor space typically designed for recreational activities, leisure, and enjoyment of nature. Parks often feature walking paths, play areas, green spaces, and various amenities.",
-  "category": ["places"],
   "keywords": ["places", "park", "recreation", "green space", "outdoor", "leisure", "nature", "public space", "garden", "walking paths", "picnic areas"],
   "example": {
     "@type": "Park",

@@ -1,8 +1,7 @@
 export default {
   "title": "News Article",
   "description": "Schema representing a news article, including details such as headline, publication date, author, and main body content.",
-  "category": ["media-and-news"],
-  "keywords": ["media", "news", "news article", "journalism", "reporting", "headline", "breaking news", "media"],
+  "keywords": ["media-and-news", "media", "news", "news article", "journalism", "reporting", "headline", "breaking news", "media"],
   "example": {
     "headline": "Global Climate Change Agreement Reached in Paris",
     "url": "https://www.example.com/global-climate-change-agreement-paris",

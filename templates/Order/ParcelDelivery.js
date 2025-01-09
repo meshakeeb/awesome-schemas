@@ -1,7 +1,6 @@
 export default {
   "title": "Parcel Delivery",
   "description": "Schema representing the delivery of a parcel, including information about the delivery status, carrier, tracking number, and expected delivery date.",
-  "category": ["order"],
   "keywords": ["order", "parcel delivery", "shipping", "carrier", "tracking number", "delivery status", "delivery date"],
   "example": {
     "@type": "ParcelDelivery",

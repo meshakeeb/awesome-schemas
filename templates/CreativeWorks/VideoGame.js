@@ -1,8 +1,7 @@
 export default {
   "title": "Video Game",
   "description": "Schema representing a video game, including details such as the developer, platform, release date, genre, and ratings.",
-  "category": ["creative-works"],
-  "keywords": ["creative work", "video game", "gaming", "developer", "platform", "release date", "genre"],
+  "keywords": ["creative-works", "video game", "gaming", "developer", "platform", "release date", "genre"],
   "example": {
     "title": "The Legend of Zelda: Breath of the Wild",
     "developer": "Nintendo",

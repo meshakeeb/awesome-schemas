@@ -1,7 +1,6 @@
 export default {
   "title": "Publication Event",
   "description": "Schema representing a publication event, such as a book release or launch event, including details such as the publication name, location, date, and related media.",
-  "category": ["events"],
   "keywords": ["events", "publication event", "book launch", "book release", "author signing", "literary event", "press conference"],
   "example": {
     "eventName": "Book Launch: The Future of Technology",

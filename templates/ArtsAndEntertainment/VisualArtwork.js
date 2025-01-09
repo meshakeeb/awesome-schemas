@@ -1,7 +1,6 @@
 export default {
   "title": "Visual Artwork",
   "description": "Schema representing a visual artwork, including details about its creator, medium, and other attributes.",
-  "category": ["arts"],
   "keywords": ["arts", "artwork", "entertainment", "visual art", "painting", "sculpture", "creative work"],
   "example": {
     "title": "The Starry Night",

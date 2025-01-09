@@ -1,8 +1,7 @@
 export default {
   "title": "Aggregate Offer",
   "description": "Schema representing an aggregate offer, typically used to display a collection of offers for a product or service from different providers. It summarizes the pricing and availability details from multiple sources.",
-  "category": ["products-and-services"],
-  "keywords": ["products", "services", "aggregate offer", "pricing", "offers", "discounts", "product price", "multi-supplier", "deal comparison"],
+  "keywords": ["products-and-services", "products", "services", "aggregate offer", "pricing", "offers", "discounts", "product price", "multi-supplier", "deal comparison"],
   "example": {
     "@type": "AggregateOffer",
     "url": "https://www.example.com/product",

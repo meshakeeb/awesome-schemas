@@ -1,8 +1,7 @@
 export default {
   "title": "Restaurant",
   "description": "Schema representing a restaurant, detailing the type of cuisine, services offered, location, contact details, and opening hours.",
-  "category": ["local-business"],
-  "keywords": ["local business", "restaurant", "dining", "restaurant services", "cuisine", "food establishment", "food menu", "restaurant business"],
+  "keywords": ["local-business", "local business", "restaurant", "dining", "restaurant services", "cuisine", "food establishment", "food menu", "restaurant business"],
   "example": {
     "name": "Gourmet Bistro",
     "url": "https://www.gourmetbistro.com",

@@ -1,8 +1,7 @@
 export default {
   "title": "Scientific Article",
   "description": "Schema representing a scientific article, which includes details about the article’s title, author(s), publication date, journal, and other academic information.",
-  "category": ["science-and-nature"],
-  "keywords": ["science", "nature", "scientific article", "research paper", "academic article", "peer-reviewed", "scientific journal", "research findings", "publication"],
+  "keywords": ["science-and-nature", "science", "nature", "scientific article", "research paper", "academic article", "peer-reviewed", "scientific journal", "research findings", "publication"],
   "example": {
     "title": "Advancements in Quantum Computing: A Comprehensive Review",
     "author": [

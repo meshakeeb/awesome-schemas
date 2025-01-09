@@ -1,8 +1,7 @@
 export default {
   "title": "Medical Entity",
   "description": "Schema representing a medical entity, which could include diseases, conditions, drugs, treatments, or any medical-related subject. This schema provides information about the entity’s characteristics, associated symptoms, causes, treatments, and related entities.",
-  "category": ["health-and-medical"],
-  "keywords": ["health", "medical", "medical entity", "healthcare", "disease", "treatment", "symptoms", "medical research", "health conditions"],
+  "keywords": ["health-and-medical", "health", "medical", "medical entity", "healthcare", "disease", "treatment", "symptoms", "medical research", "health conditions"],
   "example": {
     "name": "Asthma",
     "alternateName": "Bronchial Asthma",

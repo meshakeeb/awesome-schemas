@@ -1,8 +1,7 @@
 export default {
   "title": "Bank Account",
   "description": "Schema representing a bank account, including details such as account number, account type, balance, and associated transactions.",
-  "category": ["business-and-finance"],
-  "keywords": ["business", "finance", "bank account", "checking", "savings", "balance", "transactions", "account holder"],
+  "keywords": ["business-and-finance", "business", "finance", "bank account", "checking", "savings", "balance", "transactions", "account holder"],
   "example": {
     "accountNumber": "9876543210",
     "accountHolder": {

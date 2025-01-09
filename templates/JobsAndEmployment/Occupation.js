@@ -1,8 +1,7 @@
 export default {
   "title": "Occupation",
   "description": "Schema representing an occupation, which is a specific job or profession involving a set of tasks, skills, and duties that require particular training or expertise. This schema provides information about the occupation's role, skills, education requirements, and typical responsibilities.",
-  "category": ["jobs-and-employment"],
-  "keywords": ["jobs", "employment", "occupation", "profession", "career", "job role", "employment", "labor force"],
+  "keywords": ["jobs-and-employment", "jobs", "employment", "occupation", "profession", "career", "job role", "employment", "labor force"],
   "example": {
     "name": "Software Engineer",
     "alternateName": "Software Developer, Programmer",

@@ -1,7 +1,6 @@
 export default {
   "title": "About Page",
   "description": "Schema representing an About page of a website or organization, which typically contains information about the entity's mission, history, values, and contact details.",
-  "category": ["webpage"],
   "keywords": ["webpage", "about", "about us", "organization", "company information", "mission", "history"],
   "example": {
     "name": "About Us - Example.com",

@@ -1,7 +1,6 @@
 export default {
   "title": "Flight",
   "description": "Schema representing a flight, including details about the departure and arrival locations, times, airline, and flight details.",
-  "category": ["transportation"],
   "keywords": ["transportation", "flight", "airline", "departure", "arrival", "ticket", "travel"],
   "example": {
     "name": "Flight from New York to London",

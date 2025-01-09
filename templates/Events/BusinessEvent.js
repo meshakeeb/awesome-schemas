@@ -1,7 +1,6 @@
 export default {
   "title": "Business Event",
   "description": "Schema representing a business event, including details such as the event name, location, date, organizers, and topics covered.",
-  "category": ["events"],
   "keywords": ["events", "business event", "conference", "summit", "seminar", "networking", "corporate event"],
   "example": {
     "eventName": "Global Tech Summit 2024",

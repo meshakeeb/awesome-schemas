@@ -1,8 +1,7 @@
 export default {
   "title": "Operating System",
   "description": "Schema representing an operating system, including details about its name, version, developer, and platform compatibility.",
-  "category": ["technology-and-computing"],
-  "keywords": ["technology", "computing", "operating system", "OS", "software", "platform", "system", "Windows", "macOS", "Linux", "Android", "iOS"],
+  "keywords": ["technology-and-computing", "technology", "computing", "operating system", "OS", "software", "platform", "system", "Windows", "macOS", "Linux", "Android", "iOS"],
   "example": {
     "name": "Windows 10",
     "url": "https://www.microsoft.com/windows",

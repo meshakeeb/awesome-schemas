@@ -1,7 +1,6 @@
 export default {
   "title": "Sports Season",
   "description": "Schema representing a sports season, detailing the season’s name, start and end dates, associated teams, and key events. It covers a specific timeframe in the sport's annual cycle.",
-  "category": ["sports"],
   "keywords": ["sports", "sports season", "sports league", "season schedule", "team season", "season games", "sports event", "competition"],
   "example": {
     "name": "2024 NFL Season",

@@ -1,8 +1,7 @@
 export default {
   "title": "TV Series",
   "description": "Schema representing a TV series, including details such as title, director, actors, and episodes.",
-  "category": ["media-and-news"],
-  "keywords": ["media", "news", "TV series", "television show", "episodes", "drama", "comedy", "entertainment", "film"],
+  "keywords": ["media-and-news", "media", "news", "TV series", "television show", "episodes", "drama", "comedy", "entertainment", "film"],
   "example": {
     "name": "The Global Chronicles",
     "url": "https://www.example.com/tv-series/the-global-chronicles",

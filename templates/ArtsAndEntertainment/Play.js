@@ -1,7 +1,6 @@
 export default {
   "title": "Play",
   "description": "Schema representing a theatrical play, including details about its plot, playwright, and production.",
-  "category": ["arts"],
   "keywords": ["play", "theater", "performance", "script", "drama", "arts", "entertainment"],
   "example": {
     "title": "Romeo and Juliet",

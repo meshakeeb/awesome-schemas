@@ -1,8 +1,7 @@
 export default {
   "title": "House",
   "description": "A house is a building or structure designed for residential purposes. It includes various details like location, size, features, and price. This schema type can be used to represent standalone homes or single-family residences.",
-  "category": ["real-estate"],
-  "keywords": ["real estate", "house", "residential property", "single-family home", "home for sale", "property for rent", "house listing"],
+  "keywords": ["real-estate", "real estate", "house", "residential property", "single-family home", "home for sale", "property for rent", "house listing"],
   "example": {
     "@type": "House",
     "name": "Sunnybrook Residence",

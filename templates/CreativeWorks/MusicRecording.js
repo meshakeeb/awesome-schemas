@@ -1,8 +1,7 @@
 export default {
   "title": "Music Recording",
   "description": "Schema representing a music recording, including details such as the artist, album, genre, release date, and tracklist.",
-  "category": ["creative-works"],
-  "keywords": ["creative work", "music", "album", "song", "recording", "artist", "audio"],
+  "keywords": ["creative-works", "music", "album", "song", "recording", "artist", "audio"],
   "example": {
     "title": "Shape of You",
     "artist": "Ed Sheeran",

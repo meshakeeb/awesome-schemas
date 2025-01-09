@@ -1,8 +1,7 @@
 export default {
   "title": "Scientific Event",
   "description": "Schema representing a scientific event, which includes details about the event’s title, organizer, location, date, and topics covered.",
-  "category": ["science-and-nature"],
-  "keywords": ["science", "nature", "scientific event", "conference", "symposium", "workshop", "research", "academic event", "scientific conference", "scientific seminar"],
+  "keywords": ["science-and-nature", "science", "nature", "scientific event", "conference", "symposium", "workshop", "research", "academic event", "scientific conference", "scientific seminar"],
   "example": {
     "name": "International Symposium on Artificial Intelligence",
     "organizer": {

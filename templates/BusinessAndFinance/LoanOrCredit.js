@@ -1,8 +1,7 @@
 export default {
   "title": "Loan Or Credit",
   "description": "Schema representing a loan or credit product, including details such as the loan amount, interest rate, term, fees, and borrower requirements.",
-  "category": ["business-and-finance"],
-  "keywords": ["business", "finance", "loan", "credit", "interest rate", "fees", "loan amount", "borrower requirements"],
+  "keywords": ["business-and-finance", "business", "finance", "loan", "credit", "interest rate", "fees", "loan amount", "borrower requirements"],
   "example": {
     "loanName": "Personal Loan",
     "loanType": "Unsecured",

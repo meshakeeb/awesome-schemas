@@ -1,8 +1,7 @@
 export default {
   "title": "Financial Product",
   "description": "Schema representing a financial product, including details such as product type, terms, fees, interest rates, and associated benefits.",
-  "category": ["business-and-finance"],
-  "keywords": ["business", "finance", "financial product", "investment", "loan", "interest rate", "terms", "fees"],
+  "keywords": ["business-and-finance", "business", "finance", "financial product", "investment", "loan", "interest rate", "terms", "fees"],
   "example": {
     "productName": "High-Yield Savings Account",
     "provider": "Example Bank",

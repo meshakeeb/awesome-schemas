@@ -1,8 +1,7 @@
 export default {
   "title": "Discussion Forum Posting",
   "description": "Schema representing a forum posting in an online discussion forum. It includes details like the posting's author, date, content, and associated discussion threads or forums.",
-  "category": ["social-and-cultural"],
-  "keywords": ["social", "cultural", "discussion post", "forum thread", "online discussion", "user post", "community forum", "feedback", "discussion thread"],
+  "keywords": ["social-and-cultural", "social", "cultural", "discussion post", "forum thread", "online discussion", "user post", "community forum", "feedback", "discussion thread"],
   "example": {
     "author": {
       "@type": "Person",

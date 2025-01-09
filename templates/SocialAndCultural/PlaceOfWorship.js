@@ -1,8 +1,7 @@
 export default {
   "title": "Place Of Worship",
   "description": "Schema representing a place of worship, such as a church, mosque, temple, or synagogue. It includes details about the religious service, the place's name, address, and other related information.",
-  "category": ["social-and-cultural"],
-  "keywords": ["social", "cultural", "place of worship", "church", "mosque", "synagogue", "temple", "religion", "spiritual gathering", "worship service"],
+  "keywords": ["social-and-cultural", "social", "cultural", "place of worship", "church", "mosque", "synagogue", "temple", "religion", "spiritual gathering", "worship service"],
   "example": {
     "name": "St. Peter's Basilica",
     "url": "https://www.vatican.va/various/basiliche/san_pietro/index_it.htm",

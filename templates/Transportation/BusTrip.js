@@ -1,7 +1,6 @@
 export default {
   "title": "Bus Trip",
   "description": "Schema representing a bus trip, including information about the departure and arrival locations, time, and the bus service provider.",
-  "category": ["transportation"],
   "keywords": ["transportation", "bus trip", "bus service", "departure", "arrival", "travel"],
   "example": {
     "name": "Bus Trip from City A to City B",

@@ -1,8 +1,7 @@
 export default {
   "title": "Government Service",
   "description": "Schema representing a service provided by a government entity, including details like the service name, description, eligibility, and contact information.",
-  "category": ["government-and-civic"],
-  "keywords": ["government", "civic", "government service", "public service", "citizen services", "civic services", "government support", "service access"],
+  "keywords": ["government-and-civic", "government", "civic", "government service", "public service", "citizen services", "civic services", "government support", "service access"],
   "example": {
     "serviceName": "Driver’s License Renewal",
     "organization": "Department of Motor Vehicles (DMV)",

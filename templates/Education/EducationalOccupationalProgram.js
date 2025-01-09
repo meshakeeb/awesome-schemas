@@ -1,7 +1,6 @@
 export default {
   "title": "Educational Occupational Program",
   "description": "Schema representing an educational or occupational program, including details such as the program name, provider, duration, certification, and target audience.",
-  "category": ["education"],
   "keywords": ["education", "educational program", "occupational program", "certification", "skills training", "program duration", "career development"],
   "example": {
     "programName": "Certified Data Science Professional",

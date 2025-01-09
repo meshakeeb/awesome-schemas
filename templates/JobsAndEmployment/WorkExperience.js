@@ -1,8 +1,7 @@
 export default {
   "title": "Work Experience",
   "description": "Schema representing the work experience of an individual. This includes details about their previous roles, responsibilities, skills gained, and the duration of employment. Work experience is typically used to demonstrate qualifications for future job opportunities.",
-  "category": ["jobs-and-employment"],
-  "keywords": ["jobs", "employment", "work experience", "professional experience", "job history", "employment history", "resume", "career"],
+  "keywords": ["jobs-and-employment", "jobs", "employment", "work experience", "professional experience", "job history", "employment history", "resume", "career"],
   "example": {
     "jobTitle": "Software Engineer",
     "companyName": "Tech Solutions Ltd.",

@@ -1,8 +1,7 @@
 export default {
   "title": "NGO",
   "description": "Schema representing a non-governmental organization (NGO), which is an organization that operates independently of government control and typically focuses on humanitarian, environmental, or social causes. It includes details such as the organization's name, address, contact information, and mission.",
-  "category": ["organizations"],
-  "keywords": ["organization", "NGO", "non-governmental organization", "non-profit", "charity", "social cause", "humanitarian", "global aid"],
+  "keywords": ["organizations", "NGO", "non-governmental organization", "non-profit", "charity", "social cause", "humanitarian", "global aid"],
   "example": {
     "@type": "NGO",
     "name": "Save the Earth Foundation",

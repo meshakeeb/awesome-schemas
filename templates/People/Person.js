@@ -1,7 +1,6 @@
 export default {
   "title": "Person",
   "description": "Schema representing an individual person, including personal details such as name, address, and other biographical information.",
-  "category": ["people"],
   "keywords": ["people", "person", "individual", "name", "biography", "human", "details"],
   "example": {
     "@type": "Person",

@@ -1,8 +1,7 @@
 export default {
   "title": "Medical Condition",
   "description": "Schema representing a medical condition, including its name, symptoms, causes, treatment options, and prevention methods. This schema also provides related conditions and resources.",
-  "category": ["health-and-medical"],
-  "keywords": ["health", "medical", "medical condition", "health condition", "illness", "disease", "symptoms", "treatment", "prevention"],
+  "keywords": ["health-and-medical", "health", "medical", "medical condition", "health condition", "illness", "disease", "symptoms", "treatment", "prevention"],
   "example": {
     "name": "Diabetes Mellitus",
     "alternateName": "Diabetes",

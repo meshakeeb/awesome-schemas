@@ -1,8 +1,7 @@
 export default {
   "title": "Government Organization",
   "description": "Schema representing a government organization, which is an entity that carries out governmental functions, typically at a national, regional, or local level. It includes details such as the name of the organization, its services, and contact information.",
-  "category": ["organizations"],
-  "keywords": ["organization", "government organization", "public service", "government agency", "public sector", "governmental body"],
+  "keywords": ["organizations", "government organization", "public service", "government agency", "public sector", "governmental body"],
   "example": {
     "@type": "GovernmentOrganization",
     "name": "U.S. Department of State",

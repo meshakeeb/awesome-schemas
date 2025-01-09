@@ -1,7 +1,6 @@
 export default {
   "title": "Learning Resource",
   "description": "Schema representing a learning resource, including details such as the resource type, content, and intended audience.",
-  "category": ["education"],
   "keywords": ["education", "learning resource", "online course", "textbook", "tutorial", "study material"],
   "example": {
     "resourceName": "Introduction to Machine Learning (Textbook)",

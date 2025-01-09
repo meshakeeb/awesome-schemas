@@ -1,8 +1,7 @@
 export default {
   "title": "Creative Work",
   "description": "Schema representing a creative work, such as a book, film, artwork, music composition, or other intellectual creation.",
-  "category": ["creative-works"],
-  "keywords": ["creative work", "art", "creation", "intellectual property", "original work"],
+  "keywords": ["creative-works", "art", "creation", "intellectual property", "original work"],
   "example": {
     "title": "The Great Gatsby",
     "creator": "F. Scott Fitzgerald",

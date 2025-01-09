@@ -1,7 +1,6 @@
 export default {
   "title": "Civic Structure",
   "description": "Schema representing a civic structure, which refers to a public building or facility typically used by local governments or communities. This includes buildings such as town halls, government offices, courthouses, and libraries.",
-  "category": ["places"],
   "keywords": ["places", "civic structure", "public building", "government building", "town hall", "courthouse", "library", "community center"],
   "example": {
     "@type": "CivicStructure",

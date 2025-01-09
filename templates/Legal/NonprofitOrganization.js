@@ -1,7 +1,6 @@
 export default {
   "title": "Nonprofit Organization",
   "description": "Schema representing a nonprofit organization, which is an entity established to support a social cause, charity, or advocacy initiative. It includes details such as the organization’s mission, activities, contact information, and membership or volunteer opportunities.",
-  "category": ["legal"],
   "keywords": ["legal", "nonprofit organization", "charity", "social cause", "NGO", "volunteering", "community service", "philanthropy"],
   "example": {
     "name": "Helping Hands Foundation",

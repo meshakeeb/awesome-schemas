@@ -1,8 +1,7 @@
 export default {
   "title": "Food Establishment",
   "description": "Schema representing a food establishment, such as a restaurant, cafe, or food truck, including details like name, location, menu, and hours of operation.",
-  "category": ["food-and-dining"],
-  "keywords": ["food", "dining", "restaurant", "cafe", "food truck", "menu", "food establishment", "eatery", "gourmet"],
+  "keywords": ["food-and-dining", "food", "dining", "restaurant", "cafe", "food truck", "menu", "food establishment", "eatery", "gourmet"],
   "example": {
     "name": "The Gourmet Bistro",
     "type": "Restaurant",

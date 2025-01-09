@@ -1,8 +1,7 @@
 export default {
   "title": "Mobile Application",
   "description": "Schema representing a mobile application, including details about its functionality, platform, and other relevant information such as download links, rating, and features.",
-  "category": ["technology-and-computing"],
-  "keywords": ["technology", "computing", "mobile app", "application", "smartphone", "iOS", "Android", "download", "rating", "features"],
+  "keywords": ["technology-and-computing", "technology", "computing", "mobile app", "application", "smartphone", "iOS", "Android", "download", "rating", "features"],
   "example": {
     "name": "Fitness Tracker",
     "url": "https://www.exampleapp.com/fitness-tracker",

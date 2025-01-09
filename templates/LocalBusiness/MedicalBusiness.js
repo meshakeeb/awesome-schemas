@@ -1,8 +1,7 @@
 export default {
   "title": "Medical Business",
   "description": "Schema representing a medical business or healthcare-related organization, detailing services offered, business details such as location and contact information, and special features such as operating hours and staff qualifications.",
-  "category": ["local-business"],
-  "keywords": ["local business", "medical clinic", "healthcare provider", "doctor's office", "medical services", "health services", "medical treatment", "clinic", "health business"],
+  "keywords": ["local-business", "local business", "medical clinic", "healthcare provider", "doctor's office", "medical services", "health services", "medical treatment", "clinic", "health business"],
   "example": {
     "name": "Wellness Medical Group",
     "url": "https://www.wellnessmedicalgroup.com",

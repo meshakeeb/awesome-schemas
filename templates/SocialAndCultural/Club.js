@@ -1,8 +1,7 @@
 export default {
   "title": "Club",
   "description": "Schema representing a club, typically related to sports, social organizations, or other recreational groups. It includes details like the club's name, description, location, and social media links.",
-  "category": ["social-and-cultural"],
-  "keywords": ["social", "cultural", "club", "social club", "sports club", "membership", "recreational club", "organization", "club events"],
+  "keywords": ["social-and-cultural", "social", "cultural", "club", "social club", "sports club", "membership", "recreational club", "organization", "club events"],
   "example": {
     "name": "Manchester United Football Club",
     "url": "https://www.manutd.com",

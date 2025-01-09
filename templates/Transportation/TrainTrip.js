@@ -1,7 +1,6 @@
 export default {
   "title": "Train Trip",
   "description": "Schema representing a train trip, including details about the departure and arrival stations, times, train operator, and trip information.",
-  "category": ["transportation"],
   "keywords": ["transportation", "train trip", "train", "departure", "arrival", "ticket", "travel"],
   "example": {
     "name": "Train Trip from Paris to London",

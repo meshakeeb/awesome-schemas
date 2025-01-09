@@ -1,8 +1,7 @@
 export default {
   "title": "Product",
   "description": "Schema representing a product, which can be a physical or digital item sold or provided to consumers. It includes details such as the product's name, description, price, SKU, and brand.",
-  "category": ["products-and-services"],
-  "keywords": ["products", "services", "item", "goods", "merchandise", "physical product", "digital product"],
+  "keywords": ["products-and-services", "products", "services", "item", "goods", "merchandise", "physical product", "digital product"],
   "example": {
     "@type": "Product",
     "name": "Laptop",

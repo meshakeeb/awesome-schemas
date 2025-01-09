@@ -1,8 +1,7 @@
 export default {
   "title": "Educational Organization",
   "description": "Schema representing an educational organization, such as a school, university, or college, that provides learning and educational services. This includes information about the institution's name, location, programs, and courses offered.",
-  "category": ["organizations"],
-  "keywords": ["organization", "educational organization", "school", "university", "college", "learning institution", "education"],
+  "keywords": ["organizations", "educational organization", "school", "university", "college", "learning institution", "education"],
   "example": {
     "@type": "EducationalOrganization",
     "name": "Yeditepe University",

@@ -1,8 +1,7 @@
 export default {
   "title": "User Review",
   "description": "Schema representing a review written by a user for a product, service, or experience. It includes the review's content, rating, and the reviewed item or service.",
-  "category": ["social-and-cultural"],
-  "keywords": ["social", "cultural", "user review", "product review", "service review", "rating", "customer feedback", "experience review", "review content"],
+  "keywords": ["social-and-cultural", "social", "cultural", "user review", "product review", "service review", "rating", "customer feedback", "experience review", "review content"],
   "example": {
     "author": {
       "@type": "Person",

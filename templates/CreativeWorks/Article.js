@@ -1,8 +1,7 @@
 export default {
   "title": "Article",
   "description": "Schema representing an article, including details such as author, publication date, content, and source.",
-  "category": ["creative-works"],
-  "keywords": ["creative work", "article", "news", "blog", "opinion", "journalism", "content"],
+  "keywords": ["creative-works", "article", "news", "blog", "opinion", "journalism", "content"],
   "example": {
     "title": "The Future of Artificial Intelligence",
     "author": "Jane Doe",

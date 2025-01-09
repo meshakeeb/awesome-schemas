@@ -1,7 +1,6 @@
 export default {
   "title": "Trip",
   "description": "Schema representing a trip, including details about the destination, duration, type of trip, and travel arrangements.",
-  "category": ["tourism"],
   "keywords": ["tourism", "trip", "vacation", "holiday", "destination", "itinerary", "travel plans", "journey"],
   "example": {
     "name": "Weekend Getaway to Paris",

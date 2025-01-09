@@ -1,7 +1,6 @@
 export default {
   "title": "Sports Organization",
   "description": "Schema representing a sports organization, detailing its name, type, members, and other relevant data such as events, sponsorships, and teams involved in various sports activities.",
-  "category": ["sports"],
   "keywords": ["sports", "sports organization", "team", "league", "sports association", "athletic club", "sports federation", "professional sports"],
   "example": {
     "name": "National Football League (NFL)",

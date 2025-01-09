@@ -1,8 +1,7 @@
 export default {
   "title": "Hospital",
   "description": "Schema representing a hospital, including its name, type, services offered, location, and contact information. It includes details about the hospital's specialties, facilities, and accreditation.",
-  "category": ["health-and-medical"],
-  "keywords": ["health", "medical", "hospital", "healthcare", "medical services", "facility", "accreditation", "healthcare provider"],
+  "keywords": ["health-and-medical", "health", "medical", "hospital", "healthcare", "medical services", "facility", "accreditation", "healthcare provider"],
   "example": {
     "name": "St. John's Hospital",
     "description": "A general hospital offering emergency, surgical, pediatric, and maternity care. It provides comprehensive healthcare services to the local community.",

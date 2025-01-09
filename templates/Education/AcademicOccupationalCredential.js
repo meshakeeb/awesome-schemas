@@ -1,7 +1,6 @@
 export default {
   "title": "Academic Occupational Credential",
   "description": "Schema representing an academic or occupational credential, including details such as the credential name, issuer, and the requirements for obtaining it.",
-  "category": ["education"],
   "keywords": ["education", "academic credential", "occupational credential", "certification", "degree", "training program"],
   "example": {
     "credentialName": "Certified Data Scientist",

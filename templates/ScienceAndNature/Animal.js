@@ -1,8 +1,7 @@
 export default {
   "title": "Animal",
   "description": "Schema representing an animal. It includes details about the species, diet, habitat, and other characteristics of the animal.",
-  "category": ["science-and-nature"],
-  "keywords": ["science", "nature", "animal", "species", "wildlife", "mammal", "reptile", "bird", "habitat", "diet", "endangered"],
+  "keywords": ["science-and-nature", "science", "nature", "animal", "species", "wildlife", "mammal", "reptile", "bird", "habitat", "diet", "endangered"],
   "example": {
     "name": "African Elephant",
     "scientificName": "Loxodonta africana",

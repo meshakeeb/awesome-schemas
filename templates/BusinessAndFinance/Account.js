@@ -1,8 +1,7 @@
 export default {
   "title": "Account",
   "description": "Schema representing a user account, including details such as the account holder's name, account type, balance, and associated transactions.",
-  "category": ["business-and-finance"],
-  "keywords": ["business", "finance", "account", "user", "balance", "transactions", "profile", "account holder"],
+  "keywords": ["business-and-finance", "business", "finance", "account", "user", "balance", "transactions", "profile", "account holder"],
   "example": {
     "accountNumber": "1234567890",
     "accountHolder": {

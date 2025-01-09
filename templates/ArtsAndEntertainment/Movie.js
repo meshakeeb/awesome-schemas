@@ -1,7 +1,6 @@
 export default {
   "title": "Movie",
   "description": "Schema representing a movie, including details about its production, cast, and release.",
-  "category": ["arts"],
   "keywords": ["arts", "movie", "film", "cinema", "entertainment", "blockbuster"],
   "example": {
     "title": "Inception",

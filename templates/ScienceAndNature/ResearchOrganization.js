@@ -1,8 +1,7 @@
 export default {
   "title": "Research Organization",
   "description": "Schema representing a research organization. It includes details about the organization's name, area of research, and contact information.",
-  "category": ["science-and-nature"],
-  "keywords": ["science", "nature", "research organization", "scientific research", "academic research", "research institute", "research center", "science", "innovation"],
+  "keywords": ["science-and-nature", "science", "nature", "research organization", "scientific research", "academic research", "research institute", "research center", "science", "innovation"],
   "example": {
     "name": "Global Research Institute",
     "url": "https://www.globalresearch.org",

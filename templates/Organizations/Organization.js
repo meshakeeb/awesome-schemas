@@ -1,8 +1,7 @@
 export default {
   "title": "Organization",
   "description": "Schema representing an organization, which can be any entity, whether a business, non-profit, educational institution, or other types of groups that have a structured form. It includes information such as name, address, contact details, and other relevant data.",
-  "category": ["organizations"],
-  "keywords": ["organization", "company", "non-profit", "institution", "association", "corporation", "group"],
+  "keywords": ["organizations", "company", "non-profit", "institution", "association", "corporation", "group"],
   "example": {
     "@type": "Organization",
     "name": "Tech Innovators Inc.",

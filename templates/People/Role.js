@@ -1,7 +1,6 @@
 export default {
   "title": "Role",
   "description": "Schema representing a role or position held by an individual within an organization, project, or context. It includes the responsibilities, functions, and scope of the role.",
-  "category": ["people"],
   "keywords": ["people", "role", "position", "job title", "responsibility", "function", "duties"],
   "example": {
     "@type": "Role",

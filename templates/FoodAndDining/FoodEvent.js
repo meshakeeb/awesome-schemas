@@ -1,8 +1,7 @@
 export default {
   "title": "Food Event",
   "description": "Schema representing an event centered around food, such as food festivals, cooking classes, or food tastings. It includes details like the event name, location, date, and related food themes.",
-  "category": ["events", "food-and-dining"],
-  "keywords": ["food", "dining", "food event", "food festival", "cooking class", "food tasting", "gastronomy", "culinary event", "food celebration"],
+  "keywords": ["food-and-dining", "events", "food", "dining", "food event", "food festival", "cooking class", "food tasting", "gastronomy", "culinary event", "food celebration"],
   "example": {
     "eventName": "Gourmet Food Festival",
     "organizer": "Foodie Events Co.",

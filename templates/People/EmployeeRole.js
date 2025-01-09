@@ -1,7 +1,6 @@
 export default {
   "title": "Employee Role",
   "description": "Schema representing the role of an employee within an organization. This includes the responsibilities, position, and other key details about the employee's job or role.",
-  "category": ["people"],
   "keywords": ["people", "employee", "role", "job title", "position", "work", "responsibilities"],
   "example": {
     "@type": "EmployeeRole",

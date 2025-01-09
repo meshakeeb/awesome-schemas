@@ -1,7 +1,6 @@
 export default {
   "title": "Administrative Area",
   "description": "Schema representing an administrative region or area that is typically part of a larger geographical or political division. It includes details such as the name, type, and boundary information.",
-  "category": ["places"],
   "keywords": ["places", "administrative area", "region", "division", "territory", "government area", "boundary"],
   "example": {
     "@type": "AdministrativeArea",

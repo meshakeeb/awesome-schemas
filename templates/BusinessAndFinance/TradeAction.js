@@ -1,8 +1,7 @@
 export default {
   "title": "Trade Action",
   "description": "Schema representing an action performed in a trade, including details such as the trade type (buy or sell), price, quantity, and execution time.",
-  "category": ["business-and-finance"],
-  "keywords": ["business", "finance", "trade action", "buy", "sell", "trade execution", "quantity", "price", "trade type"],
+  "keywords": ["business-and-finance", "business", "finance", "trade action", "buy", "sell", "trade execution", "quantity", "price", "trade type"],
   "example": {
     "tradeType": "Buy",
     "instrument": "BTC/USD",

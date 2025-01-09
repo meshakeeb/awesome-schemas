@@ -1,8 +1,7 @@
 export default {
   "title": "Aggregate Rating",
   "description": "Schema representing an aggregate rating, which includes the overall rating of an item or service based on multiple individual ratings and reviews.",
-  "category": ["reviews-and-ratings"],
-  "keywords": ["reviews", "ratings", "aggregate rating", "average rating", "customer feedback", "rating system", "evaluation"],
+  "keywords": ["reviews-and-ratings", "reviews", "ratings", "aggregate rating", "average rating", "customer feedback", "rating system", "evaluation"],
   "example": {
     "@type": "AggregateRating",
     "ratingValue": 4.5,

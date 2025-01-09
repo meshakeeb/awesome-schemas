@@ -1,8 +1,7 @@
 export default {
   "title": "Real Estate Listing",
   "description": "A real estate listing represents a property that is available for sale, rent, or lease. It includes detailed information about the property such as location, price, features, and agent details.",
-  "category": ["real-estate"],
-  "keywords": ["real estate", "real estate listing", "property for sale", "home for sale", "real estate listing details", "buy house", "rent property", "real estate market"],
+  "keywords": ["real-estate", "real estate", "real estate listing", "property for sale", "home for sale", "real estate listing details", "buy house", "rent property", "real estate market"],
   "example": {
     "@type": "RealEstateListing",
     "name": "Sunnydale Family Home",

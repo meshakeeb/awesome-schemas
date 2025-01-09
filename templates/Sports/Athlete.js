@@ -1,7 +1,6 @@
 export default {
   "title": "Athlete",
   "description": "Schema representing an athlete, detailing personal information, achievements, and career-related data for individuals involved in sports and physical activities.",
-  "category": ["sports"],
   "keywords": ["athlete", "sports", "professional athlete", "sports achievements", "career", "athletics", "fitness"],
   "example": {
     "name": "Usain Bolt",

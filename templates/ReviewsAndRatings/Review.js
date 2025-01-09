@@ -1,8 +1,7 @@
 export default {
   "title": "Review",
   "description": "Schema representing a review, which includes the feedback, the rating, the reviewer’s details, and the item being reviewed.",
-  "category": ["reviews-and-ratings"],
-  "keywords": ["reviews", "ratings", "customer review", "feedback", "testimonial", "product review", "service review"],
+  "keywords": ["reviews-and-ratings", "reviews", "ratings", "customer review", "feedback", "testimonial", "product review", "service review"],
   "example": {
     "@type": "Review",
     "reviewBody": "The product is excellent with a high-quality build and fast performance. Highly recommend!",

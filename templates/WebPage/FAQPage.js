@@ -1,7 +1,6 @@
 export default {
   "title": "FAQ Page",
   "description": "Schema representing a frequently asked questions (FAQ) page that provides answers to common questions about a business, product, or service.",
-  "category": ["webpage"],
   "keywords": ["webpage", "FAQ", "questions", "answers", "frequently asked questions", "support", "help"],
   "example": {
     "name": "FAQ - ExampleCompany",

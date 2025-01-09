@@ -1,7 +1,6 @@
 export default {
   "title": "Merchant Return Policy",
   "description": "Schema representing a merchant's return policy, which includes details about the terms and conditions of returning items, the duration of the return period, and specific requirements for returns or exchanges.",
-  "category": ["order"],
   "keywords": ["order", "merchant return policy", "return policy", "return terms", "exchange policy", "refund policy", "e-commerce returns"],
   "example": {
     "@type": "MerchantReturnPolicy",

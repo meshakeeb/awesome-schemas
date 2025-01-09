@@ -1,7 +1,6 @@
 export default {
   "title": "Flight Reservation",
   "description": "Schema representing a flight reservation, including details about the flight, reservation status, passenger details, and payment.",
-  "category": ["transportation"],
   "keywords": ["transportation", "flight reservation", "booking", "airline", "ticket", "passenger", "payment", "travel"],
   "example": {
     "name": "Flight Reservation for New York to London",

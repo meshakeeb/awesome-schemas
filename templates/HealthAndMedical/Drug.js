@@ -1,8 +1,7 @@
 export default {
   "title": "Drug",
   "description": "Schema representing a drug, including its name, classification, uses, side effects, dosage instructions, and contraindications. This schema provides information about the drug's properties and its impact on health.",
-  "category": ["health-and-medical"],
-  "keywords": ["health", "medical", "drug", "medicine", "medication", "pharmaceutical", "prescription", "treatment", "side effects", "dosage"],
+  "keywords": ["health-and-medical", "health", "medical", "drug", "medicine", "medication", "pharmaceutical", "prescription", "treatment", "side effects", "dosage"],
   "example": {
     "name": "Ibuprofen",
     "alternateName": "Advil, Motrin",

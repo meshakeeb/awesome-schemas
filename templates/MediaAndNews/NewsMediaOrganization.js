@@ -1,8 +1,7 @@
 export default {
   "title": "News Media Organization",
   "description": "Schema representing a news media organization, including details such as name, address, publisher information, and contact details.",
-  "category": ["media-and-news"],
-  "keywords": ["media", "news", "news media", "media organization", "publisher", "news outlet", "journalism", "press", "news agency"],
+  "keywords": ["media-and-news", "media", "news", "news media", "media organization", "publisher", "news outlet", "journalism", "press", "news agency"],
   "example": {
     "name": "The Global News Network",
     "url": "https://www.example.com",

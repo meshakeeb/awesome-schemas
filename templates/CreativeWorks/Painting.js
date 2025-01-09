@@ -1,8 +1,7 @@
 export default {
   "title": "Painting",
   "description": "Schema representing a painting, including details such as the artist, creation date, dimensions, medium, and gallery information.",
-  "category": ["creative-works"],
-  "keywords": ["creative work", "painting", "artwork", "canvas", "artist", "visual art", "fine art"],
+  "keywords": ["creative-works", "painting", "artwork", "canvas", "artist", "visual art", "fine art"],
   "example": {
     "title": "Starry Night",
     "artist": "Vincent van Gogh",

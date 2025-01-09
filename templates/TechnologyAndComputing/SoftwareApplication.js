@@ -1,8 +1,7 @@
 export default {
   "title": "Software Application",
   "description": "Schema representing a software application, detailing its functionality, operating systems, platform compatibility, pricing, and other relevant information.",
-  "category": ["technology-and-computing"],
-  "keywords": ["technology", "computing", "software application", "app", "program", "platform", "download", "functionality"],
+  "keywords": ["technology-and-computing", "technology", "computing", "software application", "app", "program", "platform", "download", "functionality"],
   "example": {
     "name": "Microsoft Word",
     "url": "https://www.microsoft.com/microsoft-word",

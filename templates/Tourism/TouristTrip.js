@@ -1,7 +1,6 @@
 export default {
   "title": "Tourist Trip",
   "description": "Schema representing a tourist trip, including details about the destination, duration, type of trip, attractions, and travel arrangements specifically for tourists.",
-  "category": ["tourism"],
   "keywords": ["tourism", "tourist trip", "vacation", "holiday", "destination", "attractions", "sightseeing", "journey"],
   "example": {
     "name": "Historic Tour of Rome",

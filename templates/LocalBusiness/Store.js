@@ -1,8 +1,7 @@
 export default {
   "title": "Store",
   "description": "Schema representing a store, including information about the types of products offered, location, contact details, and services provided.",
-  "category": ["local-business"],
-  "keywords": ["local business", "store", "retail", "shopping", "products", "commerce", "store business", "ecommerce", "retail shop"],
+  "keywords": ["local-business", "local business", "store", "retail", "shopping", "products", "commerce", "store business", "ecommerce", "retail shop"],
   "example": {
     "name": "Tech Gadgets Shop",
     "url": "https://www.techgadgetsshop.com",

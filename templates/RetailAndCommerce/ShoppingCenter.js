@@ -1,8 +1,7 @@
 export default {
   "title": "Shopping Center",
   "description": "Schema representing a shopping center or mall, which includes details about the shopping center's name, location, businesses, and services available within.",
-  "category": ["retail-and-commerce"],
-  "keywords": ["retail", "commerce", "shopping center", "mall", "businesses", "store", "shopping", "services"],
+  "keywords": ["retail-and-commerce", "retail", "commerce", "shopping center", "mall", "businesses", "store", "shopping", "services"],
   "example": {
     "@type": "ShoppingCenter",
     "name": "Anytown Mall",

@@ -1,7 +1,6 @@
 export default {
   "title": "Author",
   "description": "Schema representing an author, which is an individual responsible for creating or writing a work such as a book, article, blog post, or other types of content. It includes details like the author's name, biography, and associated works.",
-  "category": ["people"],
   "keywords": ["people", "author", "writer", "creator", "biography", "books", "articles", "works"],
   "example": {
     "@type": "Person",

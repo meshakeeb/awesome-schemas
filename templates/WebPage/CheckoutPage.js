@@ -1,7 +1,6 @@
 export default {
   "title": "Checkout Page",
   "description": "Schema representing a checkout page for e-commerce websites where users finalize their purchase, including payment options, order summary, and shipping details.",
-  "category": ["webpage"],
   "keywords": ["webpage", "checkout", "payment", "order summary", "e-commerce", "purchase", "cart"],
   "example": {
     "name": "Checkout - ExampleStore",

@@ -1,7 +1,6 @@
 export default {
   "title": "Airport",
   "description": "Schema representing an airport, a location where aircraft can land, take off, and park. It includes information such as airport name, IATA code, location, facilities, and services available.",
-  "category": ["places"],
   "keywords": ["places", "airport", "aviation", "travel", "flight", "IATA code", "terminal", "airport services"],
   "example": {
     "@type": "Airport",

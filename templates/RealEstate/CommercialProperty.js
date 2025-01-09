@@ -1,8 +1,7 @@
 export default {
   "title": "Commercial Property",
   "description": "Schema representing a commercial property, which is a building or space used for business purposes, such as office buildings, retail spaces, warehouses, and industrial properties. It includes information like property type, location, availability, and pricing.",
-  "category": ["real-estate"],
-  "keywords": ["real estate", "commercial property", "business space", "office space", "retail space", "industrial property", "property for lease"],
+  "keywords": ["real-estate", "real estate", "commercial property", "business space", "office space", "retail space", "industrial property", "property for lease"],
   "example": {
     "@type": "CommercialProperty",
     "name": "Downtown Office Space",

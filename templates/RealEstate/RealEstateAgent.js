@@ -1,8 +1,7 @@
 export default {
   "title": "Real Estate Agent",
   "description": "A real estate agent is an individual or organization that helps clients buy, sell, or rent properties. They facilitate transactions by offering services such as property listing, marketing, and negotiation.",
-  "category": ["real-estate"],
-  "keywords": ["real estate", "real estate agent", "property agent", "real estate services", "property listing", "home buying", "real estate broker", "real estate consulting"],
+  "keywords": ["real-estate", "real estate", "real estate agent", "property agent", "real estate services", "property listing", "home buying", "real estate broker", "real estate consulting"],
   "example": {
     "@type": "RealEstateAgent",
     "name": "John Doe Realty",

@@ -1,8 +1,7 @@
 export default {
   "title": "Recipe",
   "description": "Schema representing a recipe, including details such as ingredients, instructions, cooking time, and nutritional information.",
-  "category": ["food-and-dining"],
-  "keywords": ["food", "dining", "recipe", "ingredients", "cooking", "meal", "dish", "food"],
+  "keywords": ["food-and-dining", "food", "dining", "recipe", "ingredients", "cooking", "meal", "dish", "food"],
   "example": {
     "title": "Spaghetti Aglio e Olio",
     "author": "John Doe",

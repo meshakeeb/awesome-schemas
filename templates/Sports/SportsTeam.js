@@ -1,7 +1,6 @@
 export default {
   "title": "Sports Team",
   "description": "Schema representing a sports team, detailing the team's name, sport, league, roster, and associated events. It can also include achievements, social media profiles, and other relevant team information.",
-  "category": ["sports"],
   "keywords": ["sports", "sports team", "athletic team", "league team", "professional sports team", "team roster", "sports achievements", "team events"],
   "example": {
     "name": "Dallas Cowboys",

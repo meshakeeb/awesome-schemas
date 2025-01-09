@@ -1,7 +1,6 @@
 export default {
   "title": "Land Form",
   "description": "Schema representing a natural physical feature of the Earth's surface, such as mountains, valleys, hills, or plains. Landforms can be a result of geological processes such as erosion, weathering, and tectonic movements.",
-  "category": ["places"],
   "keywords": ["places", "landform", "mountain", "valley", "hill", "plain", "geography", "natural feature", "earth's surface", "geological process"],
   "example": {
     "@type": "Landform",

@@ -1,7 +1,6 @@
 export default {
   "title": "Bus Station",
   "description": "Schema representing a bus station, a location where buses stop to pick up and drop off passengers. It includes information such as station name, location, and available services.",
-  "category": ["places"],
   "keywords": ["places", "bus station", "public transport", "bus stop", "transportation hub", "commute", "station services"],
   "example": {
     "@type": "BusStation",

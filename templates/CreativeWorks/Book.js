@@ -1,8 +1,7 @@
 export default {
   "title": "Book",
   "description": "Schema representing a book, including details such as the author, genre, publication date, and ISBN.",
-  "category": ["creative-works"],
-  "keywords": ["creative work", "book", "literature", "author", "fiction", "non-fiction", "reading"],
+  "keywords": ["creative-works", "book", "literature", "author", "fiction", "non-fiction", "reading"],
   "example": {
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",

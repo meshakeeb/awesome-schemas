@@ -1,7 +1,6 @@
 export default {
   "title": "Order Item",
   "description": "Schema representing an item within an order, including details about the product, quantity, price, and associated order information.",
-  "category": ["order"],
   "keywords": ["order", "order item", "product", "quantity", "price", "order details", "item in order"],
   "example": {
     "@type": "OrderItem",

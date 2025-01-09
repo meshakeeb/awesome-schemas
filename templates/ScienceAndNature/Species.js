@@ -1,8 +1,7 @@
 export default {
   "title": "Species",
   "description": "Schema representing a species, which includes details about the species’ name, classification, habitat, and other biological information.",
-  "category": ["science-and-nature"],
-  "keywords": ["science", "nature", "species", "biology", "taxonomy", "animal species", "plant species", "scientific classification", "endangered species", "wildlife"],
+  "keywords": ["science-and-nature", "science", "nature", "species", "biology", "taxonomy", "animal species", "plant species", "scientific classification", "endangered species", "wildlife"],
   "example": {
     "name": "Panthera leo",
     "commonName": "Lion",

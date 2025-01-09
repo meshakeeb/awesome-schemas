@@ -1,7 +1,6 @@
 export default {
   "title": "Dance Event",
   "description": "Schema representing a dance event, including details such as the event name, location, date, performers, and types of dance performances.",
-  "category": ["events"],
   "keywords": ["events", "dance event", "performance", "dance show", "choreography", "live dance", "ballet", "contemporary dance"],
   "example": {
     "eventName": "International Dance Festival 2024",

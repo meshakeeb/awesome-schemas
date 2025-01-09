@@ -1,8 +1,7 @@
 export default {
   "title": "Cafe Or Coffee Shop",
   "description": "Schema representing a cafe or coffee shop, detailing the type of establishment, the menu items it offers, its location, hours of operation, and any additional information such as special events and customer reviews.",
-  "category": ["local-business"],
-  "keywords": ["local business", "cafe", "coffee", "espresso", "latte", "cappuccino", "baked goods", "coffee beans", "pastries", "cafe ambiance"],
+  "keywords": ["local-business", "local business", "cafe", "coffee", "espresso", "latte", "cappuccino", "baked goods", "coffee beans", "pastries", "cafe ambiance"],
   "example": {
     "name": "The Daily Grind",
     "url": "https://www.thedailygrindcafe.com",

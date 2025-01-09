@@ -1,8 +1,7 @@
 export default {
   "title": "Invoice",
   "description": "Schema representing an invoice, which includes information about the goods or services provided, the total cost, and payment details.",
-  "category": ["retail-and-commerce"],
-  "keywords": ["retail", "commerce", "invoice", "billing", "transaction", "receipt", "payment", "financial document", "sale", "purchase"],
+  "keywords": ["retail-and-commerce", "retail", "commerce", "invoice", "billing", "transaction", "receipt", "payment", "financial document", "sale", "purchase"],
   "example": {
     "@type": "Invoice",
     "invoiceNumber": "INV12345",

@@ -1,8 +1,7 @@
 export default {
   "title": "Comment",
   "description": "Schema representing a comment on an article, blog post, or other online content. It includes the comment's text, author, date of publication, and potentially the content being commented on.",
-  "category": ["social-and-cultural"],
-  "keywords": ["social", "cultural", "comment", "user feedback", "online comment", "social media comment", "discussion", "comment section", "user engagement"],
+  "keywords": ["social-and-cultural", "social", "cultural", "comment", "user feedback", "online comment", "social media comment", "discussion", "comment section", "user engagement"],
   "example": {
     "author": {
       "@type": "Person",

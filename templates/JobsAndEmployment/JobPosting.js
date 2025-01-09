@@ -1,8 +1,7 @@
 export default {
   "title": "Job Posting",
   "description": "Schema representing a job posting, detailing the requirements, responsibilities, and compensation for a job. This schema includes information about the job title, employer, salary, job location, and how to apply.",
-  "category": ["jobs-and-employment"],
-  "keywords": ["jobs", "employment", "job posting", "career opportunity", "job description", "employment", "hiring", "recruitment"],
+  "keywords": ["jobs-and-employment", "jobs", "employment", "job posting", "career opportunity", "job description", "employment", "hiring", "recruitment"],
   "example": {
     "title": "Software Engineer",
     "description": "We are looking for a skilled and passionate Software Engineer to join our development team. The ideal candidate will have experience in Python and JavaScript and a strong problem-solving ability.",

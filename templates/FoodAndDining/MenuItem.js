@@ -1,8 +1,7 @@
 export default {
   "title": "Menu Item",
   "description": "Schema representing a single menu item offered at a food establishment, including its name, description, price, and optional categories or dietary labels.",
-  "category": ["food-and-dining"],
-  "keywords": ["food", "dining", "menu item", "dish", "food item", "meal", "menu entry", "restaurant dish", "menu option"],
+  "keywords": ["food-and-dining", "food", "dining", "menu item", "dish", "food item", "meal", "menu entry", "restaurant dish", "menu option"],
   "example": {
     "name": "Grilled Salmon",
     "description": "Fresh grilled salmon with garlic butter, served with seasonal vegetables.",

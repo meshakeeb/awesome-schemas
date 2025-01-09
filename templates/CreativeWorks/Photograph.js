@@ -1,8 +1,7 @@
 export default {
   "title": "Photograph",
   "description": "Schema representing a photograph, including details such as the photographer, creation date, location, and image specifications.",
-  "category": ["creative-works"],
-  "keywords": ["creative work", "photograph", "photo", "photography", "image", "portrait", "landscape"],
+  "keywords": ["creative-works", "photograph", "photo", "photography", "image", "portrait", "landscape"],
   "example": {
     "title": "Moonrise, Hernandez, New Mexico",
     "photographer": "Ansel Adams",

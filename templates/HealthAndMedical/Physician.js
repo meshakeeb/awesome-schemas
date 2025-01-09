@@ -1,8 +1,7 @@
 export default {
   "title": "Physician",
   "description": "Schema representing a physician, a medical professional responsible for diagnosing, treating, and preventing diseases and conditions. This schema provides details about the physician's qualifications, specialties, experience, and contact information.",
-  "category": ["health-and-medical"],
-  "keywords": ["health", "medical", "physician", "doctor", "medical professional", "healthcare provider", "medical specialties", "treatment", "diagnosis"],
+  "keywords": ["health-and-medical", "health", "medical", "physician", "doctor", "medical professional", "healthcare provider", "medical specialties", "treatment", "diagnosis"],
   "example": {
     "name": "Dr. John Smith",
     "alternateName": "John Smith, MD",

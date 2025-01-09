@@ -1,7 +1,6 @@
 export default {
   "title": "Music Event",
   "description": "Schema representing a music event, including details such as the event name, location, performers, and schedule.",
-  "category": ["events"],
   "keywords": ["events", "music event", "concert", "live performance", "festival", "musician", "band"],
   "example": {
     "eventName": "Rock Festival 2024",

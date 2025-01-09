@@ -1,8 +1,7 @@
 export default {
   "title": "Monetary Amount",
   "description": "Schema representing a monetary amount, including the value, currency, and optionally, a unit of exchange.",
-  "category": ["business-and-finance"],
-  "keywords": ["business", "finance", "monetary amount", "currency", "value", "amount", "financial data"],
+  "keywords": ["business-and-finance", "business", "finance", "monetary amount", "currency", "value", "amount", "financial data"],
   "example": {
     "value": 1500.00,
     "currency": "USD",

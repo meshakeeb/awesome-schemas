@@ -1,8 +1,7 @@
 export default {
   "title": "Disease",
   "description": "Schema representing a disease, including its name, symptoms, transmission methods, and treatment options. This schema also includes related data such as prevention and risk factors.",
-  "category": ["health-and-medical"],
-  "keywords": ["health", "medical", "disease", "illness", "health condition", "infection", "treatment", "symptoms"],
+  "keywords": ["health-and-medical", "health", "medical", "disease", "illness", "health condition", "infection", "treatment", "symptoms"],
   "example": {
     "name": "Influenza",
     "alternateName": "Flu",

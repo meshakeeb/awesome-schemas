@@ -1,8 +1,7 @@
 export default {
   "title": "Event",
   "description": "Schema representing an event, including details such as the event name, location, start and end dates, and the performers or organizers involved.",
-  "category": ["events"],
-  "keywords": ["event", "live event", "concert", "conference", "gathering", "performance"],
+  "keywords": ["events", "event", "live event", "concert", "conference", "gathering", "performance"],
   "example": {
     "eventName": "Tech Innovation Conference 2024",
     "organizer": "Tech Innovators Group",

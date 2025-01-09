@@ -1,8 +1,7 @@
 export default {
   "title": "Auto Repair",
   "description": "Schema representing an auto repair service, including details about the type of services offered, contact information, the business location, and any specialties or expertise related to vehicle repairs.",
-  "category": ["local-business"],
-  "keywords": ["local business", "auto repair", "car repair", "vehicle maintenance", "automotive services", "auto mechanic", "engine repair", "brake service", "oil change"],
+  "keywords": ["local-business", "local business", "auto repair", "car repair", "vehicle maintenance", "automotive services", "auto mechanic", "engine repair", "brake service", "oil change"],
   "example": {
     "name": "Speedy Auto Repair",
     "url": "https://www.speedyautorepair.com",

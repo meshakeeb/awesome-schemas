@@ -1,7 +1,6 @@
 export default {
   "title": "Course",
   "description": "Schema representing an educational course, including details such as the course name, instructor, curriculum, duration, and learning outcomes.",
-  "category": ["education"],
   "keywords": ["education", "course", "learning", "curriculum", "instructor", "duration"],
   "example": {
     "courseName": "Introduction to Python Programming",

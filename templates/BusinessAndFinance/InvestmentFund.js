@@ -1,8 +1,7 @@
 export default {
   "title": "Investment Fund",
   "description": "Schema representing an investment fund, including details such as the fund type, performance, fees, and manager.",
-  "category": ["business-and-finance"],
-  "keywords": ["business", "finance", "investment fund", "mutual fund", "performance", "fees", "fund manager", "returns"],
+  "keywords": ["business-and-finance", "business", "finance", "investment fund", "mutual fund", "performance", "fees", "fund manager", "returns"],
   "example": {
     "fundName": "Growth Equity Fund",
     "fundType": "Equity",

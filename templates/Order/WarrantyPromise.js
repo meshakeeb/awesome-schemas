@@ -1,7 +1,6 @@
 export default {
   "title": "Warranty Promise",
   "description": "Schema representing a warranty promise for a product, including details about the terms, conditions, and duration of the warranty provided by the seller or manufacturer.",
-  "category": ["order"],
   "keywords": ["order", "warranty promise", "product warranty", "guarantee", "warranty terms", "warranty conditions", "product return"],
   "example": {
     "@type": "WarrantyPromise",

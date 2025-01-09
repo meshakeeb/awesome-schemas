@@ -1,8 +1,7 @@
 export default {
   "title": "Web Application",
   "description": "Schema representing a web-based application, detailing its functionality, platforms, pricing, and other relevant features and details.",
-  "category": ["technology-and-computing"],
-  "keywords": ["technology", "computing", "web application", "app", "online service", "SaaS", "cloud-based", "web app", "internet"],
+  "keywords": ["technology-and-computing", "technology", "computing", "web application", "app", "online service", "SaaS", "cloud-based", "web app", "internet"],
   "example": {
     "name": "Google Docs",
     "url": "https://docs.google.com",

@@ -1,8 +1,7 @@
 export default {
   "title": "Journalist",
   "description": "Schema representing a journalist, detailing their personal information, areas of expertise, work experience, and contact details.",
-  "category": ["media-and-news"],
-  "keywords": ["media", "news", "journalist", "reporter", "news writer", "investigative journalist", "media professional", "press", "article writer"],
+  "keywords": ["media-and-news", "media", "news", "journalist", "reporter", "news writer", "investigative journalist", "media professional", "press", "article writer"],
   "example": {
     "name": "Jane Doe",
     "url": "https://www.janedoejournalist.com",

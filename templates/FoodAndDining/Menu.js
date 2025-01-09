@@ -1,8 +1,7 @@
 export default {
   "title": "Menu",
   "description": "Schema representing a menu, typically associated with a food establishment. It includes details about the available food items, their descriptions, and prices.",
-  "category": ["food-and-dining"],
-  "keywords": ["food", "dining", "menu", "restaurant menu", "food items", "meal options", "menu list", "dining options"],
+  "keywords": ["food-and-dining", "food", "dining", "menu", "restaurant menu", "food items", "meal options", "menu list", "dining options"],
   "example": {
     "menuName": "Gourmet Bistro Menu",
     "restaurant": "The Gourmet Bistro",

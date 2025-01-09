@@ -1,7 +1,6 @@
 export default {
   "title": "Education Event",
   "description": "Schema representing an educational event, including details such as the event name, location, date, topics covered, and speakers or instructors.",
-  "category": ["events"],
   "keywords": ["events", "education event", "seminar", "workshop", "conference", "learning", "training", "students"],
   "example": {
     "eventName": "Digital Marketing Workshop 2024",

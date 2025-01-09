@@ -1,8 +1,7 @@
 export default {
   "title": "Social Media Posting",
   "description": "Schema representing a social media post. It includes details about the post's content, the author, date created, and the platform where it was shared.",
-  "category": ["social-and-cultural"],
-  "keywords": ["social", "cultural", "social media post", "user post", "social network", "online content", "platform", "user engagement", "social sharing"],
+  "keywords": ["social-and-cultural", "social", "cultural", "social media post", "user post", "social network", "online content", "platform", "user engagement", "social sharing"],
   "example": {
     "author": {
       "@type": "Person",
